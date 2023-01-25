@@ -1,10 +1,9 @@
 <div id="nav-border" class="container">
 
-{{ $image := resources.GetRemote "https://sevenobelisks.com/so_logo_static.png" }}
-{{ with $image }}
-  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-{{ end }}
+    {{ $image := resources.GetMatch "so_logo_static.png" }}
 
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+  
     <h1 class="title">{{ .Site.Title }}</h1>
     <hr>
     <nav id="nav" class="nav_styles">
