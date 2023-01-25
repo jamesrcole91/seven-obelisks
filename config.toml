@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'sevenobelisks.com'
 languageCode = 'en-us'
 title = 'seven obelisks'
 theme = "so1-theme"
