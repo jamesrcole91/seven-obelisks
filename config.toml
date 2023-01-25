@@ -1,4 +1,4 @@
-baseURL = 'sevenobelisks.com'
+baseURL = 'https://sevenobelisks.com'
 languageCode = 'en-us'
 title = 'seven obelisks'
 theme = "so1-theme"
