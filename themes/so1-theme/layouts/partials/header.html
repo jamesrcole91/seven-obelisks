@@ -1,8 +1,6 @@
 <div id="nav-border" class="container">
-
-    {{ $image := resources.GetMatch "so_logo_static.png" }}
-
-    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+    
+    <img src = "/so_logo_static.png">
   
     <h1 class="title">{{ .Site.Title }}</h1>
     <hr>
