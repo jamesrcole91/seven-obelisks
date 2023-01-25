@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seven obelisks</title>
+    <link>sevenobelisks.com/</link>
+    <description>Recent content on seven obelisks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jan 2023 22:54:56 -0600</lastBuildDate><atom:link href="sevenobelisks.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>sevenobelisks.com/posts/about/</link>
+      <pubDate>Tue, 24 Jan 2023 22:54:56 -0600</pubDate>
+      
+      <guid>sevenobelisks.com/posts/about/</guid>
+      <description>This is an example page. HTML is the future man!
+List Item List Item Liste item Dictionary : Dictionary definitions
+asdf asdf </description>
+    </item>
+    
+    <item>
+      <title>Help!</title>
+      <link>sevenobelisks.com/posts/help/</link>
+      <pubDate>Tue, 24 Jan 2023 22:54:56 -0600</pubDate>
+      
+      <guid>sevenobelisks.com/posts/help/</guid>
+      <description>I&amp;rsquo;m trapped in this website. Help!</description>
+    </item>
+    
+  </channel>
+</rss>
