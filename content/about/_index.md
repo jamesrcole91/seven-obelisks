@@ -13,6 +13,8 @@ This is a digital creative space, to be endlessly tinkered on. Apologies for any
 
 *Please stay as long as you'd like.*
 
+<br>
+
 ##### how it's built
 <hr class="line2">
 
@@ -25,6 +27,8 @@ More information is available on my [GitHub](https://github.com/seven-obelisks/s
 The entirety of this site is made available under the [MIT License](https://opensource.org/licenses/MIT). 
 
 You are welcome to use, remix, alter, and/or repurpose any part of this site (<em>but I really don't recommend it - I have no idea what I'm doing</em>).
+
+<br>
 
 ##### and a disclaimer
 <hr class="line2">

@@ -32,6 +32,7 @@ publishdate: 2017-1-24
 - [Rescuing US Biomedical Research from its Systemic Flaws](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4000813/) - Bruce Alberts, et al.
 - [Simple Sabotage Field Manual](https://www.gutenberg.org/cache/epub/26184/pg26184-images.html) - United States Office of Strategic Services
 
+<br>
 
 #### Books
 <hr class="line2">
@@ -41,6 +42,7 @@ publishdate: 2017-1-24
 - [The Heart of the Buddha's Teaching](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf) - Thich Nhat Hanh
 - [Capitalist Realism: Is There No Alternative?](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf) - Mark Fisher
 
+<br>
 
 #### Places
 <hr class="line2">
