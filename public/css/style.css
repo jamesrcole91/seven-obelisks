@@ -104,22 +104,20 @@ li{
 /*Line Styles*/
 
 hr{
-    color:#bbb;
-    border:none;
-    height:1px;
-    background-color:#444;
-    margin-bottom:10px;
-    margin-top:10px;;
-    }
-
-hr.line2{
-    color:#444;
     border:none;
     height:1px;
     background-color:#bbb;
     margin-bottom:10px;
     margin-top:10px;;
-    }
+}
+
+hr.line2{
+    border:none;
+    height:1px;
+    background-color:#444;
+    margin-bottom:10px;
+    margin-top:10px;;
+}
 
 /*Link Styles*/    
 
@@ -140,7 +138,7 @@ a:visited {
 }
 
 a.nav-link:visited {
-    color: #693f7c;
+    color: #f5f5f5;
   }
 
 /* mouse over link */

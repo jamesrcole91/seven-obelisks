@@ -7,13 +7,15 @@ publishdate: 2023-1-25
 ##### this website
 <hr class="line2">
 
-<span style="font-family:Georgia; font-variant:small-caps;">SEVEN OBELISKS</span> is a a collection of curios, personal projects, and links to content I find interesting, compelling, or thought-provoking.
+<span style="font-family:Georgia; font-variant:small-caps; font-weight: 700; letter-spacing:3px;">SEVEN OBELISKS</span> is a a collection of curios, personal projects, and [links](https://sevenobelisks.com/links) to content I find interesting, compelling, or thought-provoking.
 
 This is a digital creative space, to be endlessly tinkered on. Apologies for any broken content you might stumble upon.
 
 *Please stay as long as you'd like.*
 
-##### technical specs
+<br>
+
+##### how it's built
 <hr class="line2">
 
 This site is built with [Hugo](https://gohugo.io/), and hosted on [Cloudflare Pages](https://pages.cloudflare.com/). 
@@ -26,7 +28,9 @@ The entirety of this site is made available under the [MIT License](https://open
 
 You are welcome to use, remix, alter, and/or repurpose any part of this site (<em>but I really don't recommend it - I have no idea what I'm doing</em>).
 
-##### disclaimer
+<br> 
+
+##### and a disclaimer
 <hr class="line2">
 
 The creator of this website has a zero tolerance policy for racism, bigotry, homophobia, transphobia, misogyny, or any other form of hatred masquerading as an ideology.

@@ -1,14 +1,15 @@
 {{ define "main" }}
 <h3 class="title">{{ .Title }}</h3>
 <hr class="line2">
-{{ partial "metadata.html" . }}
-<br>
-{{ .Content }}
+<div class="metadata_container">
 {{- range .Params.authors }}
   {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
 
-       <strong><em>by <a href="{{ .Permalink }}">{{ .Params.name }}</a></em></strong>
+<p class="left">By <a href="{{ .Permalink }}">{{ .Params.name }}</a></p>
 
   {{ end }}
 {{ end }}
+<p class="right">{{ partial "metadata.html" . }}</p>
+</div>
+{{ .Content }}
 {{ end }}
