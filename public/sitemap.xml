@@ -2,25 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sevenobelisks.com/</loc>
+    <loc>https://sevenobelisks.com/authors/james/</loc>
     <lastmod>2023-01-25T20:45:00-06:00</lastmod>
   </url><url>
     <loc>https://sevenobelisks.com/posts/journalists/</loc>
     <lastmod>2023-01-25T20:45:00-06:00</lastmod>
   </url><url>
+    <loc>https://sevenobelisks.com/authors/</loc>
+    <lastmod>2023-01-25T20:45:00-06:00</lastmod>
+  </url><url>
+    <loc>https://sevenobelisks.com/</loc>
+    <lastmod>2023-01-25T20:45:00-06:00</lastmod>
+  </url><url>
     <loc>https://sevenobelisks.com/about/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sevenobelisks.com/tags/capitalism/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sevenobelisks.com/tags/journalism/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sevenobelisks.com/tags/media/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sevenobelisks.com/tags/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sevenobelisks.com/thoughts/</loc>
@@ -35,6 +29,8 @@
     <loc>https://sevenobelisks.com/links/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sevenobelisks.com/authors/</loc>
+    <loc>https://sevenobelisks.com/categories/</loc>
+  </url><url>
+    <loc>https://sevenobelisks.com/tags/</loc>
   </url>
 </urlset>

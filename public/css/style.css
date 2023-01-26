@@ -1,6 +1,6 @@
 body {
     background-color:#EEEEEE;
-    font-family: Georgia, sans-serif;
+    font-family: Georgia, Times, serif;
     color: #444;
     margin:40px auto;
     max-width:650px;
@@ -37,7 +37,7 @@ h1 {
     font-size: 30px;
     margin-top:-10px; 
     margin-bottom:-10px;
-    font-weight: 10;
+    font-weight: 700;
     font-variant: small-caps;
     letter-spacing:2px;
     }
