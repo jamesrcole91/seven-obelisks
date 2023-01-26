@@ -7,8 +7,7 @@ publishdate: 2017-1-25
 #### on life
 <hr class="line2">
 
-- To be alive is to suffer.
-- Nature does not understand good or bad. Your suffering is simply a part of your being. Embrace it and learn from it.
+- To be alive is to suffer. We have much to learn from how we suffer.
 - The atoms that comprise your body once "belonged" to another. You have lived many lives, and will live many more - even if you don't remember them.
 - Even if we discovered our purpose, we would not understand it.
 - There is a special joy in moderation and temperance.
@@ -30,7 +29,6 @@ publishdate: 2017-1-25
 <hr class="line2">
 
 - Progress for the sake of progress isn't inherently good.
-- If the global economy can only survive on constant growth, then it's a ponzi scheme.
 - Technology's success is only judged by its ability to bring us physical pleasure, not spiritual fulfilment.
 - Our history as a species is the story of enslavement. We enslave each other, nature, and often ourselves. 
 
@@ -40,3 +38,4 @@ publishdate: 2017-1-25
 - We are approaching the end of history.
 - Money is the root of all evil. Its allure has driven many mad. Avoid its corrupting influence.
 - Everything is art. Nothing is art.
+- You should be constantly striving to consume less. There's no satisfaction [at the end of the rainbow](https://thubtenchodron.org/2007/08/wisdom-satisfaction/). 
