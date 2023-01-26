@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About"
 date: 2023-01-25
 publishdate: 2023-1-25
 ---

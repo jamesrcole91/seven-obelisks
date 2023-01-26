@@ -1,5 +1,5 @@
 ---
-title: "base of the skull"
+title: "Base of the Skull"
 date: 2023-01-24
 publishdate: 2017-1-24
 ---

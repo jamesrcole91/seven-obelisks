@@ -4,4 +4,11 @@
 {{ partial "metadata.html" . }}
 <br>
 {{ .Content }}
+{{- range .Params.authors }}
+  {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
+
+       <strong><em>by <a href="{{ .Permalink }}">{{ .Params.name }}</a></em></strong>
+
+  {{ end }}
+{{ end }}
 {{ end }}

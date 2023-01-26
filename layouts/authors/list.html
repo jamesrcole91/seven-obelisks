@@ -1,0 +1,12 @@
+{{ define "main" }}
+<main>
+    <h3>About {{ .Params.name }}</h3>
+    {{ .Content }} 
+    <h2>Articles</h2>
+    <ul>
+    {{ range .Data.Pages }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+</main>
+{{ end }}

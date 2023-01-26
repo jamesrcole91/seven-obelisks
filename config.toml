@@ -44,4 +44,15 @@ theme = "so1-theme"
 
 [markup.goldmark.renderer]
 unsafe= true
-  
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"

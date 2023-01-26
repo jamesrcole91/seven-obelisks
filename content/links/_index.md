@@ -1,10 +1,11 @@
 ---
-title: "links"
+title: "Links"
 date: 2023-01-24
 publishdate: 2017-1-24
 ---
 
-#### articles, essays, & more
+#### Articles, Essays, & More
+
 ##### on politics
 <hr class="line2">
 
@@ -36,7 +37,7 @@ publishdate: 2017-1-24
 - [Simple Sabotage Field Manual](https://www.gutenberg.org/cache/epub/26184/pg26184-images.html) - United States Office of Strategic Services
 
 
-#### books
+#### Books
 <hr class="line2">
 
 - [The Society of the Spectacle](https://files.libcom.org/files/The%20Society%20of%20the%20Spectacle%20Annotated%20Edition.pdf) - Guy Debord
@@ -45,7 +46,7 @@ publishdate: 2017-1-24
 - [Capitalist Realism: Is There No Alternative?](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf) - Mark Fisher
 
 
-#### places
+#### Places
 <hr class="line2">
 
 - [The Museum of Jurassic Technology](https://www.mjt.org/) - Los Angeles, CA
