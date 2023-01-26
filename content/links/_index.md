@@ -5,9 +5,9 @@ publishdate: 2017-1-24
 ---
 
 #### Articles, Essays, & More
+<hr class="line2">
 
 ##### on politics
-<hr class="line2">
 
 - [The Only Moral Abortion is My Abortion](https://joycearthur.com/abortion/the-only-moral-abortion-is-my-abortion/)  - Joyce Arthur
 - [How Nonviolence Protects the State](https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state) - Peter Gelderloos
@@ -15,23 +15,19 @@ publishdate: 2017-1-24
 - [The Romans Tried to Save the Republic From Men Like Trump. They Failed.](https://www.villagevoice.com/2017/01/17/the-romans-tried-to-save-the-republic-from-men-like-trump-they-failed/) - Joy Connolly
 
 ##### on democracy
-<hr class="line2">
 
 - [Reconsidering the Mistake of Law Defense](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=7436&context=jclc) - Edwin Meese III, Paul Larkin, jr.
 - [The Russian "Firehose of Falsehood" Propaganda Model](https://www.rand.org/pubs/perspectives/PE198.html) - Christopher Paul, Miriam Matthews
 
 ##### on racism
-<hr class="line2">
 
 - [Why I Collect Racist Objects](https://www.ferris.edu/HTMLS/news/jimcrow/collect.htm) - David Pilgrim
 
 ##### on death
-<hr class="line2">
 
 - [The Death of Ivan Ilyich](https://web.stanford.edu/~jsabol/existentialism/materials/tolstoy_death_ilyich.pdf) - Leo Tolstoy
 
 ##### on something else
-<hr class="line2">
 
 - [Rescuing US Biomedical Research from its Systemic Flaws](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4000813/) - Bruce Alberts, et al.
 - [Simple Sabotage Field Manual](https://www.gutenberg.org/cache/epub/26184/pg26184-images.html) - United States Office of Strategic Services
