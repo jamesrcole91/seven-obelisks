@@ -7,16 +7,19 @@ publishdate: 2023-1-25
 ##### this website
 <hr class="line2">
 
+<div class="spacer_box">
+
 <span style="font-family:Georgia; font-variant:small-caps; font-weight: 700; letter-spacing:3px;">SEVEN OBELISKS</span> is a a collection of curios, personal projects, and [links](https://sevenobelisks.com/links) to content I find interesting, compelling, or thought-provoking.
 
 This is a digital creative space, to be endlessly tinkered on. Apologies for any broken content you might stumble upon.
 
 *Please stay as long as you'd like.*
-
-<br>
+</div>
 
 ##### how it's built
 <hr class="line2">
+
+<div class="spacer_box">
 
 This site is built with [Hugo](https://gohugo.io/), and hosted on [Cloudflare Pages](https://pages.cloudflare.com/). 
 
@@ -27,8 +30,8 @@ More information is available on my [GitHub](https://github.com/seven-obelisks/s
 The entirety of this site is made available under the [MIT License](https://opensource.org/licenses/MIT). 
 
 You are welcome to use, remix, alter, and/or repurpose any part of this site (<em>but I really don't recommend it - I have no idea what I'm doing</em>).
+</div>
 
-<br>
 
 ##### and a disclaimer
 <hr class="line2">
@@ -36,5 +39,4 @@ You are welcome to use, remix, alter, and/or repurpose any part of this site (<e
 The creator of this website has a zero tolerance policy for racism, bigotry, homophobia, transphobia, misogyny, or any other form of hatred masquerading as an ideology.
 
 If anything on this website offends you, you're welcome to vent your vitriol [here](/futility.html).
-
 

@@ -27,6 +27,10 @@ body {
     margin:0 0 0 0;
 }
 
+.spacer_box{
+    padding-bottom:25px;
+}
+
 /*IDs*/
 
 #line{    
@@ -61,13 +65,14 @@ h2{
     
 h3{
     font-size:28px;
-    margin:10px 0 20px 0;
+    margin:10px 0 10px 0;
     letter-spacing:1px;
     }
     
 h4{
     font-size:26px;
-    font-weight:600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:100;
     margin-top:20px;
     margin-bottom:5px;
     letter-spacing:1px;
