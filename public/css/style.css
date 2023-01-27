@@ -27,10 +27,6 @@ body {
     margin:0 0 0 0;
 }
 
-.spacer_box{
-    padding-bottom:25px;
-}
-
 /*IDs*/
 
 #line{    
@@ -83,7 +79,7 @@ h5{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top:0px;
     margin-bottom:2px;
-    padding-top:10px;
+    padding-top:15px;
     font-variant:small-caps;
     letter-spacing:2px;
     color:#DFFF00;
