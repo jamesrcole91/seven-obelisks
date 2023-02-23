@@ -31,6 +31,7 @@ publishdate: 2017-1-24
 
 - [Rescuing US Biomedical Research from its Systemic Flaws](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4000813/) - Bruce Alberts, et al.
 - [Simple Sabotage Field Manual](https://www.gutenberg.org/cache/epub/26184/pg26184-images.html) - United States Office of Strategic Services
+- [When Sysadmins Ruled the Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html) - Cory Doctorow
 
 #### Books
 <hr class="line2">
