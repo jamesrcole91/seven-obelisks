@@ -6,7 +6,7 @@ authors:
     - James
 ---
 
-##### Wet, but not wild
+##### wet, but not wild
 
 My neighbor brought me bittersweet news the other day. He's selling his home and moving to Tennessee with his family. Like many, he'd grown sick of the long, dark, and frigid Midwest winter. He pines for the brisk weather of the South. 
 
@@ -14,7 +14,7 @@ I don't blame him. Even this most mild of winters is enough to drive us all mad,
 
 I've found myself staring out the window, only to be thoroughly dissapointed at the sight of yet more dark clouds. The thunder seems to stretch forever. And while I fully appreciate the importance of testing the tornado sirens, I can't imagine it helps any of our psyches.
 
-##### February Finds
+##### february finds
 
 [The U.S. Army in the Iraq War: Volume 2](https://digitalcommons.usmalibrary.org/cgi/viewcontent.cgi?article=1019&context=books)
 
