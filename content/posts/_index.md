@@ -1,9 +1,9 @@
 ---
-title: "Base of the Skull"
+title: "Blog"
 date: 2023-01-24
-publishdate: 2017-1-24
+publishdate: 2023-01-24
 ---
 
-The following is an archive of my personal blog, *Base of the Skull*. 
+The following is an archive of my personal blog. 
 
-If you'd like to filter by tags, that's unfortunate because I haven't gotten to that yet.
+Ahead, you'll find my thoughts on living in Illinois, interesting content I've stumbled upon, and whatever else happens to cross my mind.

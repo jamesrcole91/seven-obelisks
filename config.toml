@@ -21,8 +21,8 @@ theme = "so1-theme"
     url = "/links"
     weight = 4
   [[menu.main]]
-    name = "Thoughts"
-    url = "/thoughts"
+    name = "Projects"
+    url = "/projects"
     weight = 5
   [[menu.main]]
     name = "Contact"
