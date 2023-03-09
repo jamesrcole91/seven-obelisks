@@ -30,7 +30,7 @@ publishdate: 2017-1-24
 
 - [When Sysadmins Ruled the Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html) - Cory Doctorow
 - [Rescuing US Biomedical Research from its Systemic Flaws](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4000813/) - Bruce Alberts, et al.
--[The User, the Learner and the Machines We Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) - Alex Gil
+- [The User, the Learner and the Machines We Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) - Alex Gil
 
 ##### on something else
 
