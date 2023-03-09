@@ -26,11 +26,15 @@ publishdate: 2017-1-24
 
 - [The Death of Ivan Ilyich](https://web.stanford.edu/~jsabol/existentialism/materials/tolstoy_death_ilyich.pdf) - Leo Tolstoy
 
+##### on technology
+
+- [When Sysadmins Ruled the Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html) - Cory Doctorow
+- [Rescuing US Biomedical Research from its Systemic Flaws](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4000813/) - Bruce Alberts, et al.
+-[The User, the Learner and the Machines We Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) - Alex Gil
+
 ##### on something else
 
-- [Rescuing US Biomedical Research from its Systemic Flaws](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4000813/) - Bruce Alberts, et al.
 - [Simple Sabotage Field Manual](https://www.gutenberg.org/cache/epub/26184/pg26184-images.html) - United States Office of Strategic Services
-- [When Sysadmins Ruled the Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html) - Cory Doctorow
 
 #### Books
 <hr class="line2">
