@@ -42,7 +42,7 @@ publishdate: 2017-1-24
 - [The Society of the Spectacle](https://files.libcom.org/files/The%20Society%20of%20the%20Spectacle%20Annotated%20Edition.pdf) - Guy Debord
 - [To Have or to Be?](https://giuseppecapograssi.files.wordpress.com/2013/08/erich-fromm-to-have-or-to-be-1976.pdf) - Erich Fromm
 - [The Heart of the Buddha's Teaching](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf) - Thich Nhat Hanh
-- [Capitalist Realism: Is There No Alternative?](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf) - Mark Fisher
+- [Capitalist Realism: Is There No Alternative?](https://files.libcom.org/files/Capitalist%20Realism_%20Is%20There%20No%20Alternat%20-%20Mark%20Fisher.pdf) - Mark Fisher
 
 #### Places
 <hr class="line2">
