@@ -8,7 +8,7 @@ publishdate: 2023-02-24
 
 <div class="project_left">
 
-<p class="webicon_web"><span style="font-family: monospace;">🌐︎</span></p>
+<p class="webicon_web"><span style="font-family: monospace;">1/</span></p>
 
 </div>
 
@@ -31,7 +31,7 @@ publishdate: 2023-02-24
 
 <div class="project_left">
 
-<p class="webicon_social"><span style="font-family: monospace;">🖻</span></p>
+<p class="webicon_social"><span style="font-family: monospace;">2/</span></p>
 
 </div>
 
