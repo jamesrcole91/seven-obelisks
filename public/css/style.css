@@ -27,9 +27,18 @@ body {
     margin:0 0 0 0;
 }
 
+.project_box_ecom{
+    padding:25px;
+    border:1px solid #FF10F0;
+    color:#f5f5f5;
+    margin-top:20px;
+    margin-bottom:40px;
+    position:relative;
+}
+
+
 .project_box_web{
     padding:25px;
-    background-color:#292929;
     border:1px solid #60FF00;
     color:#f5f5f5;
     margin-top:20px;
@@ -39,7 +48,6 @@ body {
 
 .project_box_social{
     padding:25px;
-    background-color:#292929;
     border:1px solid #00DFFF;
     color:#f5f5f5;
     margin-top:20px;
@@ -75,8 +83,8 @@ body {
 
 h1 {
     font-size: 40px;
-    margin-top:-20px; 
-    margin-bottom:10px;
+    margin-top: 10px; 
+    margin-bottom: 10px;
     font-weight: 600;
     font-variant: small-caps;
     letter-spacing:3px;
@@ -84,10 +92,9 @@ h1 {
 }
     
 h2{
-    font-size:215px;
+    font-size:20px;
     margin-top:10px;
     margin-bottom:10px;
-    font-style:italic;
     letter-spacing:2px;
 }
     
@@ -151,6 +158,14 @@ p.projectp{
     margin-top:10px;
     margin-bottom:0px;
     padding:0;
+}
+
+p.webicon_ecom{
+    font-size:55px;
+    padding:10px;
+    line-height:1;
+    margin:0px;
+    color:#FF10F0;
 }
 
 p.webicon_web{

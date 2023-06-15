@@ -7,9 +7,9 @@ publishdate: 2023-1-25
 ##### this website
 <hr class="line2">
 
-<span style="font-family:Verdana; font-variant:small-caps; font-weight: 600; letter-spacing:3px;">SEVEN OBELISKS</span> is a a collection of curios, personal projects, and [links](https://sevenobelisks.com/links) to content I find interesting, compelling, or thought-provoking.
+<span style="font-family:Verdana; font-variant:small-caps; font-weight: 600; letter-spacing:3px;">SEVEN OBELISKS</span> is the personal website of James Cole, a terminally-online adult based in Central Illinois. 
 
-This is a digital creative space, to be endlessly tinkered on. Apologies for any broken content you might stumble upon.
+In its current incarnation, it serves as a portal to my other projects and efforts. 
 
 *Please stay as long as you'd like.*
 
@@ -24,7 +24,7 @@ More information is available on my [GitHub](https://github.com/seven-obelisks/s
 
 The entirety of this site is made available under the [MIT License](https://opensource.org/licenses/MIT). 
 
-You are welcome to use, remix, alter, and/or repurpose any part of this site (<em>but I really don't recommend it - I have no idea what I'm doing</em>).
+You are welcome to use, remix, alter, and/or repurpose any part of this site.
 
 ##### and a disclaimer
 <hr class="line2">
