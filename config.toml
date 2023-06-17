@@ -1,6 +1,6 @@
 baseURL = 'https://sevenobelisks.com'
 languageCode = 'en-us'
-title = 'SEVEN OBELISKS'
+title = 'seven obelisks'
 theme = "so1-theme"
 
 [menu]

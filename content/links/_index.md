@@ -34,6 +34,7 @@ publishdate: 2017-1-24
 
 ##### on something else
 
+- [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/) - Claudia Rancourt
 - [Simple Sabotage Field Manual](https://www.gutenberg.org/cache/epub/26184/pg26184-images.html) - United States Office of Strategic Services
 
 #### Books
