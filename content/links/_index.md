@@ -9,9 +9,9 @@ publishdate: 2017-1-24
 
 ##### on politics
 
-- [The Only Moral Abortion is My Abortion](https://joycearthur.com/abortion/the-only-moral-abortion-is-my-abortion/)  - Joyce Arthur
 - [I Don't Know How To Explain To You That You Should Care About Other People](https://www.huffpost.com/entry/i-dont-know-how-to-explain-to-you-that-you-should_b_59519811e4b0f078efd98440) - Kayla Chadwick
 - [The Romans Tried to Save the Republic From Men Like Trump. They Failed.](https://www.villagevoice.com/2017/01/17/the-romans-tried-to-save-the-republic-from-men-like-trump-they-failed/) - Joy Connolly
+- [The Only Moral Abortion is My Abortion](https://joycearthur.com/abortion/the-only-moral-abortion-is-my-abortion/)  - Joyce Arthur
 
 ##### on democracy
 

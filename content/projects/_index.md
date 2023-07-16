@@ -14,7 +14,7 @@ publishdate: 2023-02-24
 
 <div class="project_right">
 
-<h6><a href="https://www.ebay.com/usr/ghostlyvintagegoods" style="color:#FF10F0">ghostly vintage goods</a></h6>
+<h6><a href="https://ghostlyvintagegoods.com" style="color:#FF10F0">ghostly vintage goods</a></h6>
 
 <p class="projectp">My digital storefront, where I peddle in political and corporate ephemera, rare books, defunct periodicals, and more.</p>
 
