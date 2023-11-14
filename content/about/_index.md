@@ -30,5 +30,3 @@ You are welcome to use, remix, alter, and/or repurpose any part of this site.
 <hr class="line2">
 
 The creator of this website has a zero tolerance policy for racism, bigotry, homophobia, transphobia, misogyny, or any other form of hatred masquerading as an ideology.
-
-If anything on this website offends you, you're welcome to vent your vitriol [here](/futility.html).
