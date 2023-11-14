@@ -7,9 +7,9 @@ publishdate: 2023-1-25
 ##### this website
 <hr class="line2">
 
-<span style="font-family:Verdana; font-variant:small-caps; font-weight: 600; letter-spacing:3px;">SEVEN OBELISKS</span> is the personal website of James Cole, a terminally-online adult based in Central Illinois. 
+<span style="font-family:Verdana; font-variant:small-caps; font-weight: 600; letter-spacing:3px;">SEVEN OBELISKS</span> is the personal website of James Cole, a digital creator and analog tinkerer.
 
-In its current incarnation, it serves as a portal to my other projects and efforts. 
+In its current incarnation, it serves as a portal to my other projects and efforts. Any dead links are simply "works in progress," if you will.
 
 *Please stay as long as you'd like.*
 
