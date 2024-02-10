@@ -1,8 +1,10 @@
 ---
-title: "Links"
+title: "Library"
 date: 2023-01-24
 publishdate: 2017-1-24
 ---
+
+Please enjoy this selection of articles, essays, books, and more. 
 
 #### Books
 <hr class="line2">
