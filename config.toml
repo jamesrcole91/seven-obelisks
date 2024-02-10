@@ -13,21 +13,17 @@ theme = "so1-theme"
     url = "/about"
     weight = 2
   [[menu.main]]
-    name = "links"
-    url = "/links"
+    name = "library"
+    url = "/library"
     weight = 3
-  [[menu.main]]
-    name = "projects"
-    url = "/projects"
-    weight = 4
   [[menu.main]]
     name = "contact"
     url = "/contact/"
-    weight = 5
+    weight = 4
   [[menu.main]]
     name = "consulting"
     url = "/consulting/"
-    weight = 6  
+    weight = 5  
 
 [author]
   name = "James"
