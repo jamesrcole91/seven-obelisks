@@ -4,7 +4,7 @@ date: 2023-01-24
 publishdate: 2017-1-24
 ---
 
-Please enjoy this selection of articles, essays, books, and more. Links will direct you outside of this site - please be mindful.
+Please enjoy this selection of articles, essays, books, and more. Links will direct you outside of this site.
 
 #### Books
 <hr class="line2">
